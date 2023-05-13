@@ -1,0 +1,24 @@
+Timestamp,Participant no. & Condition,"How would you rate your overall experience with the yoga-guiding NAO robot? (1 - very poor, 5 - excellent)","Did you find the robot's instructions easy to understand? (1 - not at all, 5 - very easy)","How helpful was the robot in guiding you through the yoga workout? (1 - not helpful, 5 - very helpful)","Did you feel comfortable interacting with the robot during the workout? (1 - not comfortable, 5 - very comfortable)","How would you rate the robot's ability to adapt to your skill level or limitations? (1 - poor, 5 - excellent)","How well did the robot maintain a suitable pace throughout the workout? (1 - too slow or too fast, 5 - just right)","How would you rate the robot's ability to motivate and engage you during the workout? (1 - poor, 5 - excellent)","How likely are you to use this robot-guided yoga workout again? (1 - not likely, 5 - very likely)","How likely are you to recommend the robot-guided yoga workout to a friend or family member? (1 - not likely, 5 - very likely)",What features or functionalities did you like most about the yoga-guiding Nao robot?,"What features or functionalities did you dislike or find challenging to use?
+",Any other comments or feedback regarding your experience with the yoga-guiding Nao robot?,QUANTITATIVE,Poses Attempted,Total Trial Time,Active Engagement Time,Percentage Time Engaged During Trial
+26/04/2023 15:44:15,1. inter,4,4,5,5,5,1,4,4,5,no,no,add social function share details with friends,,3,2:32:33,2:19:33,91.47820387
+26/04/2023 15:50:26,1. non-inter,2,2,2,4,1,4,3,2,2,movements were faster,more guidance,,,4,1:59:19,1:38:45,82.76295572
+26/04/2023 16:04:15,2. non-inter,2,2,1,1,1,3,1,1,1,,,,,5,1:40:37,1:36:17,95.69322511
+26/04/2023 16:11:26,2. inter,5,5,5,5,3,4,3,4,4,,,,,4,2:58:58,2:56:21,98.53790278
+26/04/2023 16:14:10,3. inter,4,4,4,5,3,4,4,3,4,The demonstrations alongside verbal explainations,Some of the demonstrations were slightly different to the exercise (because of the limitations of the robot),Good thanks! ,,5,3:11:50,2:55:29,91.47697654
+26/04/2023 16:18:23,3. non-inter,4,3,2,4,2,4,2,3,2,You can still follow the exercises just from the demonstration,It would have useful 2 have demo before doing the exercise,I quite liked the pace of the second one but a demo would have definitely helped,,5,1:35:36,1:16:31,80.03835425
+26/04/2023 16:21:28,4. non-inter,4,5,4,5,3,4,5,4,4,action guidance ,,,,4,2:45:02,2:39:04,96.38456877
+26/04/2023 16:25:59,4. inter,4,5,5,4,4,4,3,4,5,action guidance,movement speed slow,it's an interesting and fun experience practicing yoga with nao,,5,1:42:14,1:39:15,97.08183893
+26/04/2023 16:44:41,5. inter,4,4,5,4,5,4,4,5,4,no,no,no,,2,2:31:13,2:12:24,87.55648628
+26/04/2023 16:47:35,5. non-inter,1,2,2,1,2,1,2,1,2,no,no,no,,5,1:39:29,1:15:19,75.70782376
+26/04/2023 16:52:30,6. non-inter,4,5,4,4,3,4,5,4,4,,,,,3,1:42:15,1:15:27,73.78973105
+26/04/2023 16:56:47,6. inter,4,5,5,4,4,5,4,4,4,,,,,3,2:57:37,2:41:09,90.72909825
+03/05/2023 15:20:55,7. non-inter,3,3,1,2,1,4,2,2,2,,The lack of communication ,,,5,1:42:12,1:23:19,81.52315721
+03/05/2023 15:32:01,7. inter,5,4,5,5,5,4,4,4,5,The guided activity ,,,,4,2:48:32,2:31:04,89.63607595
+03/05/2023 15:38:29,8. inter,2,4,4,2,4,5,2,3,2,its shape,,,,3,2:26:10,2:23:50,98.4036488
+03/05/2023 15:41:34,8. non-inter,2,4,3,3,2,4,2,2,,,,,,5,1:41:28,1:37:09,95.7457293
+03/05/2023 15:51:35,9. non-inter,4,4,3,3,4,3,5,4,4,The different poses.,Some poses is too hard,Set some communication to increase the interaction,,4,1:43:22,1:35:42,92.58303773
+03/05/2023 15:58:59,9. inter,5,5,4,5,4,4,4,4,4,Good instruction. Great communication. Enough poses,Nah,Add some break between each pose,,4,3:06:03,2:47:15,89.89518947
+03/05/2023 16:05:54,10. inter,3,5,4,4,3,3,4,3,3,,,,,4,2:45:18,2:26:56,88.88888889
+03/05/2023 16:08:50,10. non-inter,3,3,3,3,2,2,2,2,2,,,,,4,1:43:23,1:19:07,76.5274867
+03/05/2023 16:16:03,11.non-inter,4,5,4,3,2,5,3,2,3,Humanoid shape and movement guidance,"The long time to reach the position , no speech",,,5,1:44:18,1:37:09,93.14477469
+03/05/2023 16:22:09,11. inter,4,5,5,5,5,5,3,4,2,"Instructions were clear, and asking if the pose is ok is good","No clear signal of when to start the pose was tricky for the firsts ones, but you get used to it and know when to go after",,,5,2:58:19,2:51:49,96.35479951
