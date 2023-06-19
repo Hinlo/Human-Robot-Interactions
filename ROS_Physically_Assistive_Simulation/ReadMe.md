@@ -20,6 +20,7 @@ source /ros_entrypoint.sh
 roslaunch darknet_ros darknet_ros.launch
 
 ***Updating the Robot Navigation Goals using VScode***
+
 start container
 
 go to docker tab on vs code
